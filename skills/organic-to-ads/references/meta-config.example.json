@@ -1,0 +1,14 @@
+{
+  "api_version": "",
+  "instagram_user_id": "",
+  "account_label": "my-brand",
+  "token_secret_name": "META_ACCESS_TOKEN",
+  "lookback_days": 90,
+  "min_age_hours": 48,
+  "max_posts": 200,
+  "max_pages": 20,
+  "exclude_post_ids": [],
+  "outlier_threshold": 3,
+  "baseline": "mean",
+  "min_comparators": 5
+}

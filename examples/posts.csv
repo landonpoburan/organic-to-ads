@@ -1,0 +1,10 @@
+post_id,account,format,paid,observation_window_hours,reach,views,likes,comments,saves,shares,total_interactions,caption
+post-01,demo-brand,carousel,false,48,1000,,40,5,8,4,57,"Three common questions about the desk planner."
+post-02,demo-brand,carousel,false,48,1100,,44,6,10,5,65,"Plan a week with the same three-step routine."
+post-03,demo-brand,carousel,false,48,900,,36,4,12,6,58,"A closer look at the planner pages."
+post-04,demo-brand,carousel,false,48,1050,,42,5,10,4,61,"How the weekly planning page works."
+post-05,demo-brand,carousel,false,48,950,,38,5,9,5,57,"What to do when tasks keep moving to tomorrow."
+post-06,demo-brand,carousel,false,48,1000,,40,5,11,6,62,"A short FAQ about planning on paper."
+post-07,demo-brand,carousel,false,48,1200,,120,24,60,30,234,"A visual demo of turning a messy task list into a usable week."
+post-08,demo-brand,reel,false,48,25000,42000,900,80,10,700,1690,"A funny desk-dance clip with no planner demonstration."
+post-09,demo-brand,carousel,true,48,50000,,1500,200,400,350,2450,"A boosted launch post. Exclude from the organic baseline."

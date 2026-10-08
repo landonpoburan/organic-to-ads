@@ -1,0 +1,4 @@
+interface:
+  display_name: "Organic to Ads"
+  short_description: "Find Instagram outliers and choose posts to test as ads"
+  default_prompt: "Use $organic-to-ads to review my Instagram posts, identify measurable outliers, and recommend what to test as Facebook or Instagram ads."

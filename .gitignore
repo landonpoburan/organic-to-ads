@@ -1,0 +1,22 @@
+# Keep user inputs, exports, reports, and credentials outside the public package.
+.env
+.env.*
+!.env.example
+*.pem
+*.key
+credentials*.json
+*token*.json
+settings.local.json
+meta-config.json
+scan.json
+posts.json
+analysis.json
+.DS_Store
+__pycache__/
+*.py[cod]
+.venv/
+node_modules/
+private/
+user-data/
+reports/
+work/
